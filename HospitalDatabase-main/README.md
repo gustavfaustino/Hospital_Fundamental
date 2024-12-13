@@ -4,15 +4,15 @@ Bem-vindo ao centro de organização da migração dos dados do Hospital Albert 
 
 ## 1. Migração Inicial
 
-<img src="HospitalDatabase-main/PrimeiraMigracao/Driagrama-ER-Hospital.png" style="width: 100%" alt="Primeira Migração de Dados">
+<img src="PrimeiraMigracao/Driagrama-ER-Hospital.png" style="width: 100%" alt="Primeira Migração de Dados">
 
 ## 2. Migração de Internações
 
-<img src="HospitalDatabase-main/SegundaMigracao/Diagrama-MER-Hospital.drawio.png" style="width: 100%" alt="Segunda Migração de Dados">
+<img src="SegundaMigracao/Diagrama-MER-Hospital.png" style="width: 100%" alt="Segunda Migração de Dados">
 
 ## 3. Terceira Migração
 
-<img src="HospitalDatabase-main/TerceiraMigracao/Diagrama-MER-Hospital.png" style="width: 100%" alt="Terceira Migração de Dados">
+<img src="TerceiraMigracao/Diagrama-MER-Hospital.png" style="width: 100%" alt="Terceira Migração de Dados">
 
 ```
 DROP DATABASE IF EXISTS Hospital;
@@ -242,7 +242,7 @@ VALUES ('2023-09-20', '2023-12-25','Cirurgia para retirar retina.', 1,'555444','
 
 ## 4. Quarta Migração
 
-<img src="HospitalDatabase-main/QuartaMigracao/Diagrama-MER-Hospital.png" style="width: 100%" alt="Quarta Migração de Dados">
+<img src="QuartaMigracao/Diagrama-MER-Hospital.png" style="width: 100%" alt="Quarta Migração de Dados">
 
 ```
 USE Hospital;
